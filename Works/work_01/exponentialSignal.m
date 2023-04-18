@@ -6,7 +6,7 @@ n = 0:40;
 %Definindo a função x[n]:
 Xn = (1/4).^n;
 
-%Plotando o  gráfico:
+%Plotando o gráfico:
 stem(n, Xn);
 
 %Mantendo o mesmo gráfico
@@ -18,7 +18,10 @@ hold on;
 stem(-n, Xn);
 
 %Deslocando o sinal em t0 = -5
-stem(n-5, Xn);
+n_deslocado = n-5;
+
+%plotando o sinal deslocado
+stem(n_deslocado, Xn);
 
 %Adicionando legendas:
 legend('x[n]','w[n] = x[-n]', 'g[n] = x[n+5]');
