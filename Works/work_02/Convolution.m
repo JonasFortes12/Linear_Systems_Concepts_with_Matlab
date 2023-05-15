@@ -35,7 +35,7 @@ title('Sinal Filtrado', 'FontSize', 12, 'FontWeight', 'bold')
 %  multiplicação dos sinais ponto a ponto, de modo que cada produto
 %  resultasse em uma amplitude entre 1 e -1 como é observado no sinal
 %  filtrado. Dessa forma, ao conhecer o comportamento do sistema pela resposta
-%  ao impulso h(n), é possível inferir uma entrada x(n) tal qual a saída do
+%  ao impulso h(n), é possível inferir uma entrada x(n) tal que a saída do
 %  sistema seja uma onda de amplitude constante. Ou seja, o sistema filtra
 %  um sinal de entrada deixando-o com o comportamento observado na figura
 %  do sinal filtrado.
