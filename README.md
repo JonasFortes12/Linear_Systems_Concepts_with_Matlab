@@ -22,3 +22,8 @@ $$x[n] = x[n] = (1/4)^n u[n]$$
 <img src="./Works/work_02/filteredSignal.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px; margin-bottom: 20px;"/>
+
+### Work 03 :
+<img src="./Works/work_03/InputSignalAndFiltered.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px; margin-bottom: 20px;"/>
