@@ -27,3 +27,23 @@ $$x[n] = x[n] = (1/4)^n u[n]$$
 <img src="./Works/work_03/InputSignalAndFiltered.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px; margin-bottom: 20px;"/>
+
+### Work 04 :
+<img src="./Works/work_04/Figure_1.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px; margin-bottom: 20px;"/>
+<img src="./Works/work_04/Figure_2.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px; margin-bottom: 20px;"/>
+<img src="./Works/work_04/Figure_3.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px; margin-bottom: 20px;"/>
+<img src="./Works/work_04/Figure_4.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px; margin-bottom: 20px;"/>
+     <img src="./Works/work_04/Figure_5.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px; margin-bottom: 20px;"/>
+     <img src="./Works/work_04/Figure_6.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px; margin-bottom: 20px;"/>
